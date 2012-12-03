@@ -1,0 +1,13 @@
+URxvt.keysym.M-c:   perl:clipboard:copy
+URxvt.keysym.M-v:   perl:clipboard:paste
+URxvt.keysym.M-C-v: perl:clipboard:paste_escaped
+URxvt.perl-ext-common: default,clipboard,matcher
+URxvt.font: xft:DejaVu Sans Mono:size=12
+URxvt.urlLauncher: firefox
+URxvt.matcher.button: 1
+Xft.autohint: 0
+Xft.lcdfilter:  lcddefault
+Xft.hintstyle:  hintfull
+Xft.hinting: 1
+Xft.antialias: 1
+Xft.rgba: rgb
