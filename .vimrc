@@ -8,6 +8,7 @@ set ignorecase
 set smartcase
 set nobackup
 set noswapfile
+set incsearch
 
 let vimclojure#ParenRainbow=1
 
